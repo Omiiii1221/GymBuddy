@@ -28,15 +28,8 @@ A real-time gym exercise counter powered by Teachable Machine and Flask. This pr
 ```
 GymBuddy/
 │── static/
-│   ├── css/           # Stylesheets
-│   ├── js/            # JavaScript files
 │   └── my-pose-model/ # Exported Teachable Machine model (model.json, weights.bin)
-│
-│── templates/
-│   └── index.html     # Frontend UI
-│
 │── app.py             # Flask backend
-│── requirements.txt   # Dependencies
 │── README.md          # Project documentation
 ```
 
