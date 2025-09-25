@@ -40,7 +40,7 @@ GymBuddy/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/GymBuddy.git
+   git clone https://github.com/omiiii1221/GymBuddy.git
    cd GymBuddy
    ```
 
